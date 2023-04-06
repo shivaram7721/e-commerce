@@ -1,0 +1,35 @@
+.navContainer {
+    display: flex;
+    /* border: 2px solid; */
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: aquamarine;
+}
+.navLeft {
+    display: flex;
+    
+    /* border: 2px solid; */
+}
+
+.heading {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+
+.links {
+    color: black;
+    font-weight: 900;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.navRight {
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px solid; */
+}
